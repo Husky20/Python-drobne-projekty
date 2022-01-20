@@ -1,5 +1,5 @@
 print("Hello world")
-
+#TODO: zacznij nalizę mojego repo i napisz funkcję stan
 class Stan:
     '''
     Klasa przechowująca stany
