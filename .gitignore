@@ -3,3 +3,4 @@ TicTacToe/Scripts
 TicTacToe/Lib
 TicTacToe/pyvenv.cfg
 .idea
+TicTacToe/__pycache__
