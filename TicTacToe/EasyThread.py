@@ -6,7 +6,7 @@ class OnVariableThread(threading.Thread):
     '''
     SKUP SIĘ
     prosta klasa która musi współpracować z oppowiednio napisanmi metodami ale to python
-    niestety przekazujemu zmienne do wątków za pomocą listy argówmentów
+    niestety przekazujemu zmienne do wątków za pomocą listy argumentów
     i tu mamy dwa wyjścia:
         1 przekazujemy listę z jedną zmienna albo piszemy nowe wątki
         2 przekazujemy w liście zmiennych wiele wartości ale funkcja musi odbierać i przekształcać to
